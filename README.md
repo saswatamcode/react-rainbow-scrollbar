@@ -1,4 +1,5 @@
 # react-rainbow-scrollbar
+[![npm version](https://badge.fury.io/js/react-rainbow-scrollbar.svg)](https://badge.fury.io/js/react-rainbow-scrollbar)
 A simple package to get an animated rainbow scrollbar for your React app.
 
 ## Install

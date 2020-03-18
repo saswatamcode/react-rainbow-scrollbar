@@ -27,3 +27,6 @@ function Component() {
 
 export default Component;
 ```
+
+## License
+react-rainbow-scrollbar is licensed under MIT license.

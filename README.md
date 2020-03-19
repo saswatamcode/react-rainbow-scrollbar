@@ -3,6 +3,10 @@
 
 A simple package to get an animated rainbow scrollbar for your React app.
 
+## Demo
+
+![Rainbow Scrollbar Demo](demo/demo.gif)
+
 ## Install
 react-animated-scrollbar is available via npm.
 
